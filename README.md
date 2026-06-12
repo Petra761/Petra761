@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Petra761/Petra761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Herberth%20Mamani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descColor=c4b5fd" />
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-marco-mamani-sanchez-a1176639a/)
+![Profile Views](https://komarev.com/ghpvc/?username=Petra761&style=for-the-badge&color=7C3AED&label=Visitas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👤 ¿Quién soy?
+
+- 🎓 4to año de **Ingeniería en Sistemas** @ UPDS Tarija, Bolivia
+- ⚡ Me muevo mejor en el **backend** — .NET y C# son mi zona
+- 🌱 Aprendiendo JS, TS y React en el camino
+- 🔀 He guiado a compañeros usando **Git Flow** en proyectos colaborativos
+- 🌐 Certificado en inglés por el **Centro Boliviano Americano**
+- 🐾 Tengo demasiadas mascotas
+
+---
+
+### 🛠️ Con lo que trabajo
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,js,tailwind,git,github,vscode,linux&perline=6)
+
+</div>
+
+---
+
+### 📌 Proyecto principal
+
+<div align="center">
+
+[![Hospital Farmacia](https://github-readme-stats.vercel.app/api/pin/?username=Petra761&repo=Hospital3erNivel_Farmacia&theme=tokyonight&border_color=7C3AED)](https://github.com/Petra761/Hospital3erNivel_Farmacia)
+
+</div>
+
+> Sistema de gestión para el departamento de farmacia de un hospital de tercer nivel — .NET · PostgreSQL · React
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petra761&show_icons=true&theme=tokyonight&border_color=4F46E5&hide_border=false&include_all_commits=true)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" />
