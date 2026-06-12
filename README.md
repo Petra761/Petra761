@@ -30,18 +30,6 @@
 
 ---
 
-### 📌 Proyecto principal
-
-<div align="center">
-
-[![Hospital Farmacia](https://github-readme-stats.vercel.app/api/pin/?username=Petra761&repo=Hospital3erNivel_Farmacia&theme=tokyonight&border_color=7C3AED)](https://github.com/Petra761/Hospital3erNivel_Farmacia)
-
-</div>
-
-> Sistema de gestión para el departamento de farmacia de un hospital de tercer nivel — .NET · PostgreSQL · React
-
----
-
 ### 📊 Stats
 
 <div align="center">
