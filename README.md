@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Herberth%20Mamani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descColor=c4b5fd" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-marco-mamani-sanchez-a1176639a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-mamani/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Petra761&style=for-the-badge&color=7C3AED&label=Visitas)
 
 </div>
@@ -27,17 +27,5 @@
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,js,tailwind,git,github,vscode,linux&perline=6)
 
 </div>
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petra761&show_icons=true&theme=tokyonight&border_color=4F46E5&hide_border=false&include_all_commits=true)
-
-</div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" />
