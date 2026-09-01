@@ -1,31 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Herberth%20Mamani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descColor=c4b5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:0284C7&height=180&section=header&text=Petra761&fontSize=45&fontColor=FFFFFF&fontAlignY=35" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-mamani/)
-![Profile Views](https://komarev.com/ghpvc/?username=Petra761&style=for-the-badge&color=7C3AED&label=Visitas)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Herberth+%F0%9F%91%8B;Backend+Developer+%7C+C%23+%26+.NET;Systems+Engineering+Student" alt="Typing SVG" />
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/herberth-mamani/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0284C7" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Petra761&style=for-the-badge&color=0284C7&label=Visitas&labelColor=0F172A" alt="Views" />
 
 </div>
 
+<br />
+
+### 👋 Sobre mí
+
+Estudiante de 4to año de **Ingeniería de Sistemas** en la UPDS (Tarija, Bolivia) enfocado en desarrollo de software y arquitectura **Backend**.
+
+- 🎯 **Especialidad:** APIs REST y lógica de negocio con **C# y .NET**.
+- 🗄️ **Bases de Datos:** Modelado y persistencia en **PostgreSQL**.
+- 🌐 **Frontend & Mobile:** Interfaces web y móviles con **React, React Native, TypeScript y Tailwind CSS**.
+- ⚙️ **Enfoque:** Arquitectura limpia, integración de microservicios y escalabilidad.
+
 ---
 
-### 👤 ¿Quién soy?
-
-- 🎓 4to año de **Ingeniería en Sistemas** @ UPDS Tarija, Bolivia
-- ⚡ Me muevo mejor en el **backend** — .NET y C# son mi zona
-- 🌱 Aprendiendo JS, TS y React en el camino
-- 🔀 He guiado a compañeros usando **Git Flow** en proyectos colaborativos
-- 🌐 Certificado en inglés por el **Centro Boliviano Americano**
-- 🐾 Tengo demasiadas mascotas
-
----
-
-### 🛠️ Con lo que trabajo
+### 🛠️ Stack Tecnológico
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,js,tailwind,git,github,vscode,linux&perline=6)
+| Categoría             | Herramientas                                                                |
+| :-------------------- | :-------------------------------------------------------------------------- |
+| **Backend & DB**      | ![Backend](https://skillicons.dev/icons?i=cs,dotnet,postgres&theme=dark)    |
+| **Frontend & Mobile** | ![Frontend](https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark) |
+| **Entorno & Control** | ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark) |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=120&section=footer" />
+---
+
+### 📌 Proyectos Destacados
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Petra761/GorilaType">
+  <img
+    src="https://opengraph.githubassets.com/1/Petra761/GorilaType"
+    width="100%"
+    alt="GorilaType"
+  />
+</a>
+
+<h3>🦍 GorilaType</h3>
+
+<p>
+  Mi proyecto actual. Un sitio de typing inspirado en Monkeytype,
+  desarrollado mientras sigo mejorando arquitectura, UX y rendimiento.
+</p>
+
+<p>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>TailwindCSS</code>
+</p>
+
+<a href="https://github.com/Petra761/GorilaType">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Petra761/Hospital3erNivel_Farmacia">
+  <img
+    src="https://opengraph.githubassets.com/1/Petra761/Hospital3erNivel_Farmacia"
+    width="100%"
+    alt="Hospital 3er Nivel - Farmacia"
+  />
+</a>
+
+<h3>🏥 Hospital 3er Nivel - Farmacia</h3>
+
+<p>
+  Sistema de gestión de farmacia hospitalaria desarrollado
+  con arquitectura basada en servicios.
+</p>
+
+<p>
+  <code>.NET</code>
+  <code>React</code>
+  <code>PostgreSQL</code>
+  <code>TailwindCSS</code>
+</p>
+
+<a href="https://github.com/Petra761/Hospital3erNivel_Farmacia">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Petra761/FoodSpot">
+  <img
+    src="https://opengraph.githubassets.com/1/Petra761/FoodSpot"
+    width="100%"
+    alt="FoodSpot"
+  />
+</a>
+
+<h3>🍔 FoodSpot</h3>
+
+<p>
+  Aplicación móvil para descubrir y guardar lugares de comida.
+  Uno de mis proyectos principales con React Native.
+</p>
+
+<p>
+  <code>React Native</code>
+  <code>TypeScript</code>
+  <code>Expo</code>
+</p>
+
+<a href="https://github.com/Petra761/FoodSpot">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🚧 ¿Qué sigue?</h3>
+
+<p>
+  Probablemente otro proyecto que empiece diciendo
+  <i>"este será sencillo"</i>.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📊 Actividad & Estadísticas
+
+<div align="center">
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petra761/Petra761/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Petra761/Petra761/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Petra761/Petra761/output/github-contribution-grid-snake.svg">
+  </picture>
+
+<br /><br />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Petra761&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&stroke=1E293B&hide_border=false&border_radius=8" alt="Streak Stats" />
+
+<br /><br />
+
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:0284C7&height=140&section=footer" width="100%" />
+</div>
