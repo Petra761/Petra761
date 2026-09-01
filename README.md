@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:0284C7&height=180&section=header&text=Petra761&fontSize=45&fontColor=FFFFFF&fontAlignY=35" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Herberth+%F0%9F%91%8B;Backend+Developer+%7C+C%23+%26+.NET;Systems+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Herberth+%F0%9F%91%8B;Building+APIs+with+C%23+%26+.NET;Systems+Eng.+Student+%40+UPDS;Always+building+something+new" alt="Typing SVG" />
 
 <br /><br />
 
@@ -17,12 +17,9 @@
 
 ### 👋 Sobre mí
 
-Estudiante de 4to año de **Ingeniería de Sistemas** en la UPDS (Tarija, Bolivia) enfocado en desarrollo de software y arquitectura **Backend**.
+¡Buenas! 👋 Soy Herberth, estudiante de **Ingeniería de Sistemas**
 
-- 🎯 **Especialidad:** APIs REST y lógica de negocio con **C# y .NET**.
-- 🗄️ **Bases de Datos:** Modelado y persistencia en **PostgreSQL**.
-- 🌐 **Frontend & Mobile:** Interfaces web y móviles con **React, React Native, TypeScript y Tailwind CSS**.
-- ⚙️ **Enfoque:** Arquitectura limpia, integración de microservicios y escalabilidad.
+Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cuerre, lo saco adelante con **C#, .NET y PostgreSQL** para la base de datos. Ahora, si me piden hacer **frontend**, la verdad la paso mal, pero igual me pongo a ello con **React y Tailwind CSS** hasta que quede funcionando.
 
 ---
 
@@ -174,6 +171,12 @@ Estudiante de 4to año de **Ingeniería de Sistemas** en la UPDS (Tarija, Bolivi
   <img src="https://streak-stats.demolab.com?user=Petra761&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&stroke=1E293B&hide_border=false&border_radius=8" alt="Streak Stats" />
 
 <br /><br />
+
+  <!-- Activity Graph -->
+  <img src="https://activity-graph-two.vercel.app/graph?username=Petra761&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=0284C7&hide_border=true" width="100%" alt="Activity Graph" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
