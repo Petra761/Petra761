@@ -195,15 +195,11 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-667.59%20thousand%20lines%20of%20code-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -211,63 +207,24 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                265 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-🌆 Daytime                393 commits         ██████████░░░░░░░░░░░░░░░   40.10 % 
-🌃 Evening                273 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   202 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Tuesday                  167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Wednesday                54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Thursday                 213 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Friday                   284 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Saturday                 10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Sunday                   50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/La_Paz
-
-💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Antigravity Desktop      6 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-FenixCars                6 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
-```
-
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (100.0%)
+⏱ AI Coding Time: 49 mins (30.71%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 261 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 22 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 359 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -282,12 +239,8 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Petra761/Petra761/main/assets/bar_graph.png)
-
-
- Last Updated on 02/09/2026 01:31:51 UTC
+ Last Updated on 02/09/2026 20:13:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
