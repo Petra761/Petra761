@@ -28,23 +28,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-
-      - name: Remove AI Coding section (no official flag for this)
-        run: |
-          git clone https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git repo
-          cd repo
-          python3 -c "
-          import re
-          with open('README.md', encoding='utf-8') as f:
-              content = f.read()
-          new_content = re.sub(r'🤖 \*\*AI Coding This Week\*\*.*?\`\`\`\n\n', '', content, flags=re.DOTALL)
-          with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(new_content)
-          "
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: remove AI coding section"
-            git push
-          fi
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
