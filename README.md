@@ -191,15 +191,13 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
   <img src="https://activity-graph-two.vercel.app/graph?username=Petra761&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=0284C7&hide_border=true" width="100%" alt="Activity Graph" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2026
+> 🏆 117 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -207,6 +205,17 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 26 mins        █████████████░░░░░░░░░░░░   52.88 % 
+TypeScript               1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   38.54 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
 🤖 **AI Coding This Week** 
 
 ```text
@@ -227,20 +236,8 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in C#** 
 
-```text
-C#                       15 repos            █████████████░░░░░░░░░░░░   53.57 % 
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
-
-
- Last Updated on 02/09/2026 20:13:58 UTC
+ Last Updated on 02/09/2026 20:32:26 UTC
 <!--END_SECTION:waka-->
 
 </div>
