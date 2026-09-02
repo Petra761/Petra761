@@ -191,11 +191,9 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
   <img src="https://activity-graph-two.vercel.app/graph?username=Petra761&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=0284C7&hide_border=true" width="100%" alt="Activity Graph" />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%203%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 137.5 kB Used in GitHub's Storage 
  > 
 > 🏆 117 Contributions in the Year 2026
  > 
@@ -203,41 +201,22 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
+**I Mostly Code in C#** 
 
 ```text
-💬 Programming Languages: 
-Markdown                 1 hr 26 mins        █████████████░░░░░░░░░░░░   52.88 % 
-TypeScript               1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   38.54 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 49 mins (30.71%)
-
-✍️ 0 lines written by AI, 261 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 359 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+C#                       15 repos            █████████████░░░░░░░░░░░░   53.57 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
- Last Updated on 02/09/2026 20:32:26 UTC
+
+
+ Last Updated on 02/09/2026 20:46:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
