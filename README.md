@@ -206,17 +206,17 @@ Si me preguntan qué me gusta, es desarrollar **backend**: aunque a veces no cue
 **I Mostly Code in C#** 
 
 ```text
-C#                       15 repos            █████████████░░░░░░░░░░░░   53.57 % 
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C#                       16 repos            ██████████████░░░░░░░░░░░   55.17 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 19/10/2026 01:53:11 UTC
+ Last Updated on 20/10/2026 02:11:46 UTC
 <!--END_SECTION:waka-->
 
 </div>
